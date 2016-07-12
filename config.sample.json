@@ -1,0 +1,9 @@
+{
+  "mongodb" : {
+    "name": "static_db",
+    "server" : "mongodb://localhost:27017/static_db"
+  },
+
+  "SALT_WORK_FACTOR":"<Number>",
+  "SECRET_TOKEN": "<SECRET_TOKEN>"
+}

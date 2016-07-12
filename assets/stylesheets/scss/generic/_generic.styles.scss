@@ -1,0 +1,13 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(238, 238, 238);
+
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  &:link, &:visited, &:active {
+    color: $default-link-color;
+  }
+}
